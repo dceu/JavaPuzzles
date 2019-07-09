@@ -1,0 +1,10 @@
+
+public class ToConsolePrintPyramid implements PrintPyramid {
+
+	@Override
+	public void pyraPrint(Pyramid p) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+/home/dcuy/udemy/JavaPuzzles/.metadata/.plugins/org.eclipse.jdt.core
+2058364758.index
+182113241.index
+230102976.index
+1690751502.index
+1672156695.index
+2495497850.index
+346826369.index
+3926866631.index
+2328408866.index
+4204939181.index
+4258235316.index
+2376431419.index
+3839144693.index
+3576427705.index
+2634549841.index
+3820582636.index
+1175494123.index
+1506079336.index
+331473560.index
+2384019379.index
+2111693647.index

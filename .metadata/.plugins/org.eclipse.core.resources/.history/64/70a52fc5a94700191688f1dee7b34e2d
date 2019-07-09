@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+public class Pyramid {
+	private int height;
+
+	public void setHeight(int height) {
+		this.height = height;
+	}
+
+	public Pyramid(int height){
+		this.height = height;
+	}	
+	
+
+	public int getHeight(){
+		return height;
+	}
+	
+	public void prompt() {
+		do {
+			System.out.println("Give me a number from 0 to 23: \n");
+			Scanner input = new Scanner(System.in);
+			this.height = input.nextInt();
+			input.close();
+		} while (height < 0 || height > 23);
+		
+	}
+	
+	public void drawPyramid() {
+		String c;
+		do	{
+			System.out.println("Type \'f\' to print to file, \'c\' to print to console: \n");
+			Scanner input = new Scanner(System.in);
+			c = input.next();
+		}	while (c.)
+	}
+}

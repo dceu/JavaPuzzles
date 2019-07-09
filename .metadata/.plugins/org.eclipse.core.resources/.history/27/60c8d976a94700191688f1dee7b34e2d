@@ -1,0 +1,7 @@
+
+public interface PrintPyramid {
+	
+		public void pyraPrint(Pyramid p);
+	
+
+}
